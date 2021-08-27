@@ -39,8 +39,8 @@ labelCells <- function(data_obj){
   
 }
 
-d=read.csv("data/ReferenceData.csv", header = T, stringsAsFactors = F)
-data_cellline =  read.table("data/scdata.txt", header = T, row.names = 1, stringsAsFactors = F)
+d=read.csv("https://www.ida.liu.se/~olesy12/rp/data/ReferenceData.csv", header = T, stringsAsFactors = F)
+data_cellline =  read.table("https://www.ida.liu.se/~olesy12/rp/data/scdata.txt", header = T, row.names = 1, stringsAsFactors = F)
 
 
 library(dplyr)
