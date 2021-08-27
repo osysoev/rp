@@ -1,4 +1,4 @@
-**example.ipynb** contains an example of applying RP methpd
+**example.ipynb** contains an example of applying RP method
 
 **RCAexample.R** contains an example of applying RCA method
 
